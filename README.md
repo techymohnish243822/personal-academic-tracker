@@ -73,7 +73,8 @@ Personal Attendance Manager is a simple web-based application to help users mana
 ---
 
 ## Screenshots
-![Home Page](Screenshot 2025-03-28 174835.png)
+![Home Page](Screenshot%202025-03-28%20174835.png)
+
 
 ---
 
@@ -85,5 +86,5 @@ Personal Attendance Manager is a simple web-based application to help users mana
 ---
 
 ## License
-This project is licensed under **[Your Name]**. All rights reserved.  
+This project is licensed under **Mohnish S Shetty**. All rights reserved.  
 Unauthorized use, distribution, or modification of this application is prohibited without prior permission from the author.
