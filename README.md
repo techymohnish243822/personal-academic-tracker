@@ -73,7 +73,7 @@ Personal Attendance Manager is a simple web-based application to help users mana
 ---
 
 ## Screenshots
-![Home Page](image.png)
+![Home Page](Screenshot 2025-03-28 174835.png)
 
 ---
 
