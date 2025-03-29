@@ -74,7 +74,7 @@ Personal Attendance Manager is a simple web-based application to help users mana
 
 ## Screenshots
 ![Home Page](Screenshot%202025-03-28%20174835.png)
-![Attendance Page](attendance.png)
+![Attendance Page](screencapture-127-0-0-1-5000-attendance-2025-03-28-17_55_13.png)
 ![Screenshot](Screenshot%202025-03-28%20175959.png)
 
 
